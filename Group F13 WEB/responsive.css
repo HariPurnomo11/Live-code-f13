@@ -1,0 +1,14 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+    .clients-logo a {
+        float: left;
+        width: 100%;
+        position: relative;
+    }
+
+  
+  /* Untuk Smartphone */
+  @media all and (max-width: 670px) {
+    .clients-logo a {
+        
+    }
