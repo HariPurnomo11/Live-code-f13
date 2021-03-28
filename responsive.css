@@ -1,0 +1,18 @@
+/* untuk tablet */
+@media all and (max-width: 1000px) {
+    .testi {
+        width: 50%;
+        margin: 0px 5px;
+    }
+
+}
+
+
+/* untuk smartphone */
+
+@media all and (max-width: 670px) {
+    .testi {
+        width: 100%;
+        margin: 0px 10px;
+    }
+}
