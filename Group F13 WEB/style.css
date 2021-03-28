@@ -18,3 +18,44 @@
     position: absolute;
     
 }
+
+.footer {
+    background-color: #cacaca;
+    color: rgb(0, 0, 0);
+    height: 320px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+  }
+  
+  .footer-logo p {
+    margin-left: 45px;
+    margin-top: 5px;  
+    margin-bottom: 5px;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+  }
+
+  .footer-list {
+    float: left;
+    padding: 5px 200px;
+  }
+  
+  .footer-list li {
+    padding-bottom: 30px;
+    list-style: none;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+
+  .socialicon {
+    float: right;
+    text-align: center;
+    padding-right: 100px;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+  }
