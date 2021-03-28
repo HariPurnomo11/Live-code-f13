@@ -2,6 +2,20 @@
     box-sizing: border-box;
 }
 
+ /* Yuli Dwi Nur Aini Code (Header & Home) */
+
+
+
+
+
+
+ /* Karshell Saputra (Services) */
+
+
+
+
+
+ /* Hari Purnomo Code (Clients) */
 .container {
     background-color:#f7f7f7;
     padding: 0% 15%;
@@ -16,14 +30,23 @@
 .clients-logo a {
     float: left;
     position: absolute;
+    margin-right: 100px;
     
 }
+ /* Nuradi Code (Testimonial) */
 
+
+
+
+ /* Iqbal ShahPutra Code (Footer) */
 .footer {
     background-color: #cacaca;
     color: rgb(0, 0, 0);
     height: 320px;
     padding: 40px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
   }
   
   .footer-logo {
