@@ -1,0 +1,43 @@
+
+
+body{
+    padding: 100px 80px;
+}
+
+.judul{
+    font-size: 36px;
+    text-align:center;
+    font-weight: bold;
+}
+
+.testi {
+    float: left;
+    width: 500px;
+    border: 1px solid #F7EDCA;
+    margin: auto;
+    background-color: #CACACA;
+    border-radius: 5%;
+    text-align:center;
+    padding: 10px
+}
+.testi-icon {
+    margin: auto;
+}
+.testi-icon p {
+    top: 44%;
+    width: 100%;
+    color: black;
+    margin: 20px
+}
+.testi-icon img{
+    border-radius: 50%;
+    
+}
+.text-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 15px;
+    color:  #black;
+    margin: 20px;
+}
