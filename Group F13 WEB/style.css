@@ -3,7 +3,88 @@
 }
 
  /* Yuli Dwi Nur Aini Code (Header & Home) */
+*{
+margin:0px auto;
+}
 
+.header{
+width:100%; 
+z-index:1000; 
+position:fixed;
+height:120px; 
+background:white;
+}
+
+.header ul {
+    margin: 0; padding: 0;
+    float: right;
+    margin-top: 50px;
+
+}
+
+.header ul li {
+    display: inline;
+     padding:15px;
+}
+
+.header ul li a {
+    float: right; text-decoration: none;
+    color: black;
+    padding: 10.5px 11px;
+    background-color:  white;
+    font-weight:bold;
+
+}
+
+.home{
+	width: 100%;
+	height: 575px;
+	background: none;
+	margin-top: 100px;
+	background-color:none; 
+}
+
+.home1{
+	width:200px;
+	height:200px;
+	background:none;
+	display: inline-block;
+	margin-left: 80px;
+	margin-right: 10px;
+	margin-top: 150px;
+
+}
+
+.home img{
+	float:right; 
+	margin:0 8px 4px 0;
+	margin-right: 25px;
+	display: inline-block;
+}
+
+.tulisan1{
+	font-color: white;
+	font-family: inherit;
+	font-style: normal;
+	text-align: center;
+	font-size: 30pt;
+}
+
+.tulisan2{
+	font-color: white;
+	font-family: monospace;
+	font-style: normal;
+	text-align: center;
+	font-size: 35pt;
+}
+
+.tulisan3{
+	font-color: white;
+	font-family: monospace;
+	font-style: normal;
+	text-align: center;
+	font-size: 40pt;
+}
 
 
 
