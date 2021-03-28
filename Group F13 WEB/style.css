@@ -1,11 +1,9 @@
 * {
     box-sizing: border-box;
+	margin:0px auto;
 }
 
  /* Yuli Dwi Nur Aini Code (Header & Home) */
-*{
-margin:0px auto;
-}
 
 .header{
 width:100%; 
@@ -114,7 +112,7 @@ background:white;
 }
 
 .clients-logo a {
-    float: left;
+    float: center;
     margin: 5px;
     
 }
@@ -122,7 +120,7 @@ background:white;
 .clients-logo img{
 	margin-right: 35px;
 	margin-bottom: 80px;
-	align: center;
+	align-items: center;
 }
 
 
