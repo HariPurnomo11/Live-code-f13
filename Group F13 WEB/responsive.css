@@ -1,5 +1,5 @@
 /* Untuk Tablet */
-@media all and (max-width: 100%) {
+@media all and (max-width: 1000px) {
     .clients-logo a {
         float: right;
         width: 100%;
