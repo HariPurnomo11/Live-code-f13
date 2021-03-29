@@ -92,7 +92,30 @@ background:white;
 
  /* Karshell Saputra (Services) */
 
+.contents-item {
+float:left;
+font-size:20px;
+}
 
+.judul {
+    text-align: center;
+}
+
+.img {
+    justify-content: center;
+}
+
+.item-SEO {
+    align-content: center;
+}
+
+.item-social-media {
+    justify-content: center;
+}
+
+.item-web-dev {
+
+}
 
 
 
