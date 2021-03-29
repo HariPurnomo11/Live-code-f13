@@ -8,6 +8,53 @@
         width: 50%;
         margin: 0px 5px;
     }
+    .header{
+        width: 100%;
+        float: none;
+    }
+    .header img{
+        width: 200px;
+
+    }
+    .header ul {
+    margin: 0; padding: 0;
+    float: right;
+    margin-top: 50px;
+
+}
+
+.header ul li {
+    display: inline-block;
+     padding:5px;
+     font-size: 12pt;
+     font-weight: bold;
+     margin-left: 0px;
+}
+
+.header ul li a {
+    float: right; text-decoration: none;
+    color: black;
+    padding: 10.5px 11px;
+    background-color:  white;
+    font-weight:bold;
+
+}
+.home1{
+    width:200px;
+    height:200px;
+    background:none;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 150px;
+}
+.home img{
+    width: 60%;
+    margin-top: 70px;
+}
+
+
+
 }
   
   /* Untuk Smartphone */
@@ -19,4 +66,49 @@
         width: 100%;
         margin: 0px 10px;
     }
+      
+          .header{
+        width: 100%;
+        float: none;
+    }
+    .header img{
+        width: 200px;
+
+    }
+    .header ul {
+    margin: 0; padding: 0;
+    float: right;
+    margin-top: 50px;
+
+}
+
+.header ul li {
+    display: inline-block;
+     padding:5px;
+     font-size: 12pt;
+     font-weight: bold;
+     margin-left: 0px;
+}
+
+.header ul li a {
+    float: right; text-decoration: none;
+    color: black;
+    padding: 10.5px 11px;
+    background-color:  white;
+    font-weight:bold;
+
+}
+.home1{
+    width:200px;
+    height:200px;
+    background:none;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 150px;
+}
+.home img{
+    width: 60%;
+    margin-top: 70px;
+}
 }
